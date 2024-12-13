@@ -7,3 +7,9 @@ Ref: <https://github.com/marimo-team/marimo>
 ```bash
 uv run marimo tutorial intro
 ```
+
+## Start a file browser
+
+```bash
+uv run marimo edit
+```
